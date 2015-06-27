@@ -1,0 +1,27 @@
+name: PoroticWarps
+version: 1.0
+main: me.Ayush_03.PoroticWarps.PoroticWarps
+author: Ayush_03
+description: A warp plugin.
+
+commands:
+     warp:
+      usage: /invwarp
+      description: Opens gui.
+      
+     pw:
+      usage: /pw
+      description: Command.
+      
+     setwarp:
+      usage: /setwarp
+      description: Sets the warp!
+      
+     pwarp:
+      usage: /pwarp
+      description: Tp to warp!
+      
+     delwarp:
+      usage: /delwarp
+      description: Deletes the warp.
+       
